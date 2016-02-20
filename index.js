@@ -1,9 +1,8 @@
 #!/usr/bin/env node
 
 var program = require('commander')
-var inquirer = require('inquirer')
-var weather = require('./lib/weather.js');
-var setup = require('./lib/setup.js');
+var weather = require('./lib/weather.js')
+var setup = require('./lib/setup.js')
 var isSetup = false
 
 program
