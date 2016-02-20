@@ -1,5 +1,5 @@
 {
-  "name": "weather",
+  "name": "weathercli",
   "version": "0.0.1",
   "description": "simple weather forecast cli",
   "main": "index.js",
