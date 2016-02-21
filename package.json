@@ -1,7 +1,7 @@
 {
   "name": "weathercli",
   "version": "0.0.1",
-  "description": "simple weather forecast cli",
+  "description": "Check the weather from the terminal",
   "main": "index.js",
   "bin": "./index.js",
   "dependencies": {

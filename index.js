@@ -11,7 +11,7 @@ program
 
 program
   .command('setup')
-  .description('run setup command')
+  .description('setup city and access token for the openweathermap api')
   .action(function() {
     isSetup = true
     setup()
