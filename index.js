@@ -3,10 +3,11 @@
 var program = require('commander')
 var weather = require('./lib/weather.js')
 var setup = require('./lib/setup.js')
+var pkg = require('./package.json')
 var isSetup = false
 
 program
-  .version('0.0.1')
+  .version(pkg.version)
 
 program
   .command('setup')
