@@ -59,6 +59,7 @@ $ weathercli
 - [ ] make degrees configurable
 - [ ] different rendering styles ( simple, normal, detail, etc)
 - [ ] add self update feature
+- [ ] determine location automatically
 
 ## license
 MIT
