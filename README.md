@@ -56,7 +56,7 @@ $ weathercli
 ```
 
 ## todo
-- [ ] make degrees configurable
+- [x] make degrees configurable
 - [ ] different rendering styles ( simple, normal, detail, etc)
 - [ ] add self update feature
 - [ ] determine location automatically
