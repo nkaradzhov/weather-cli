@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-var program = require('commander')
-var weather = require('./lib/weather.js')
-var setup = require('./lib/setup.js')
-var pkg = require('./package.json')
-var isSetup = false
+const program = require('commander')
+const weather = require('./lib/weather.js')
+const setup = require('./lib/setup.js')
+const pkg = require('./package.json')
+const isSetup = false
 
 program
   .version(pkg.version)

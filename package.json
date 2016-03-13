@@ -1,6 +1,6 @@
 {
   "name": "weathercli",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Check the weather from the terminal",
   "main": "index.js",
   "bin": "./index.js",
