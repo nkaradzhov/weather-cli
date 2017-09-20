@@ -4,7 +4,7 @@ const program = require('commander')
 const weather = require('./lib/weather.js')
 const setup = require('./lib/setup.js')
 const pkg = require('./package.json')
-const isSetup = false
+let isSetup = false
 
 program
   .version(pkg.version)
